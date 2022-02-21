@@ -77,7 +77,7 @@ export default function Projects() {
 
 
 
-						<p className="pt-2 px-5 " style={{fontSize: "0.9rem"}} >A fully functional E-Commerce Application with a Login/Register, and Regular User and Administrator functions. It has a product page with a Search function; regular users have a Cart and can Checkout; Admins can update and remove items. Check out the <a href="https://zealous-swanson-df8204.netlify.app/">live demo</a> , hosted on Netlify!</p>
+						<p className="pt-2 px-5 " style={{fontSize: "0.9rem"}} >A fully functional E-Commerce Application with a Login/Register, and Regular User and Administrator functions. It has a product page with a Search function; regular users have a Cart and can Checkout; Admins can update and remove items. Check out the <a href="https://zealous-swanson-df8204.netlify.app/">live demo</a> , hosted on Netlify.</p>
 						
 					</Col>
 					<Col md={1} ></Col>
